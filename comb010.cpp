@@ -26,5 +26,6 @@ int main() {
     fin.close();
     fout.close();
     
+    cout << "Done!";
     return 0;
 }
